@@ -1,6 +1,6 @@
 # IntelliJ
 .idea
-.idea/**
+.idea/workspace.xml
 
 
 # Jekyll

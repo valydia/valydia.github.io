@@ -18,10 +18,13 @@ List(x, x)
 
 ### Resources section
 
+* [Comonads in scala][comonad-scala]
+
 * Here is a series of [articles][kmett-comonads] from Eward Kmett
 
 * There is the book from Bartozw Milowsk entitled [Category Theory for Programmers][category-theory]
 
+[comonad-scala]: http://blog.higher-order.com/blog/2015/06/23/a-scala-comonad-tutorial
 [kmett-comonads]: https://www.schoolofhaskell.com/user/edwardk/cellular-automata
 [category-theory]: http://www.blurb.com/b/9008339-category-theory-for-programmers
 
